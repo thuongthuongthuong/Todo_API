@@ -50,7 +50,7 @@ Run the application, PostgreSQL, and Redis in containers.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/todo-api.git
+   git clone https://github.com/thuongthuongthuong/todo-api.git
    cd todo-api
    ```
 
